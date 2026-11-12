@@ -26,6 +26,7 @@ Improvement required working with the CISO and CFO to introduce upgrades, and ap
 
 C) THE TRANSFORMATION: 
 
+
 Client's servers remained contained for 36 hrs. Below is the containment playbook:
 
 Hours 1-6  |   Analysts use the secure Crowdstrike Falcon cloud channel to safely investigate the 50 isolated servers      | Financial Loss: Client website was down and losing 50k/hr in sales and transactions
