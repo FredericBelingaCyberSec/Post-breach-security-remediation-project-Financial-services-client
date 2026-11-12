@@ -1,5 +1,5 @@
 A) POST-BREACH REMEDIATION TRANSFORMATION. 
-NB: Please refer to the post-breach documentation file to have the complete playbook and narrative of this project from assessment to improvement. Below is a snippet of the solution delivery. 
+NB: Please refer to the post-breach documentation file uploaded to have the complete playbook and narrative of this project from assessment to improvement. Below is a snippet of the solution delivery. 
 
 Following a critical post-breach incident for a major financial services client in the EMEA region, I was brought in at the containment stage to lead a €3M cloud security transformation and remediation program.  The organization was facing immense pressure to recover operationally while maintaining strict compliance with FINMA operational resilience standards, the Swiss nFADP, GDPR and the EU's DORA framework.  
 The attack the client suffered was an elevation of privilege (EoP) which saw attackers steal executives’ credentials and work their way into the company's control panel where they managed to exfiltrate mission critical data, trade secrets and PII. 
